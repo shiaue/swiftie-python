@@ -50,3 +50,6 @@ Long Live
 [Como Trabalhar com Listas](https://www.devmedia.com.br/como-trabalhar-com-listas-em-python/37460)
 
 [Introdução a Listas](https://panda.ime.usp.br/aulasPython/static/aulasPython/aula09.html?highlight=lista)
+
+
+[If else](https://www.devmedia.com.br/python-estrutura-condicional-if-else/38217)
