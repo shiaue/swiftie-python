@@ -45,3 +45,6 @@ Long Live
 
 ## Dicas
 1. Use `type()` to check the types of your variables. What kind of variables are you going to use?
+
+## Recursos
+`list` (Introdução a Listas)[https://panda.ime.usp.br/aulasPython/static/aulasPython/aula09.html?highlight=lista]
