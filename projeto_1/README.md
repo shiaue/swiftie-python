@@ -27,7 +27,7 @@ else:
 
 
 
-## Sample Run
+### Sample Run
 
 ```
 >>> Oi, Quantas Musicas?
@@ -36,7 +36,7 @@ else:
 
 ```
 
-## Sample 2
+### Sample 2
 
 ```
 >>> Oi, Quantas Musicas?
@@ -44,5 +44,5 @@ else:
 >>> (You're Not) SORRY... not enough songs
 ```
 
-## Tips
+## Dicas
 1. Use `type()` to check the types of your variables. What kind of variables are you going to use?
