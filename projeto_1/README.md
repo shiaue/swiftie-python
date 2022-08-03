@@ -2,6 +2,11 @@
 
 Given a `list()` named `rankings` that contains N songs
 
+```
+rankings = ["Fearless", "Red", "Long Live"]
+
+```
+
 1. Ask the user how many songs they want, we will call this number `M` (use `input()`)
 
 `If M > N`
@@ -20,10 +25,6 @@ else:
 
 2. If the number of songs requested is less than the size of `rankings` then return then first `M` songs from the list.
 
-```
-rankings = ["Fearless", "Red", "Long Live"]
-
-```
 
 
 ## Sample Run
