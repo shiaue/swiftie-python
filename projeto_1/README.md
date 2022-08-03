@@ -30,17 +30,16 @@ else:
 ### Sample Run
 
 ```
->>> Oi, Quantas Musicas?
-2
->>> Fearless, Red
-
+>>> Oi, Quantas Musicas? 3
+Fearless
+Red
+Long Live
 ```
 
 ### Sample 2
 
 ```
->>> Oi, Quantas Musicas?
-4
+>>> Oi, Quantas Musicas? 4
 >>> (You're Not) SORRY... not enough songs
 ```
 
